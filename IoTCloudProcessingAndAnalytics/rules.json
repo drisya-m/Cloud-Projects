@@ -1,0 +1,18 @@
+{
+    "type": {
+        "Rule-101": {
+            "datatype": "SPO2",
+            "avg_min": 85,
+            "avg_max": 89,
+            "trigger_count": 5
+        },
+        "Rule-102": {
+            "datatype": "HeartRate",
+            "avg_min": 85,
+            "avg_max": 90,
+            "trigger_count": 4
+        }
+    }
+}
+
+
