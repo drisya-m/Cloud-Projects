@@ -1,3 +1,5 @@
+Automate the service setup used in Anomaly detection Project(CloudManagedServices) using CloudFormation and CloudDeploy. 
+
 The folder structure for artifacts:
 
 -- temperatureanomaly.zip
